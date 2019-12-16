@@ -17,3 +17,5 @@ fazendo commit
 
 Fazendo push
 git push
+
+Adicionando tags
